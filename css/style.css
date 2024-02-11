@@ -1,0 +1,37 @@
+body {
+    background-color: #f5e9f1;
+    color: black;
+}
+
+h1 {
+    font-size: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2, h3 {
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+img {
+    border: solid 5px black;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+ul {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#nav {
+    display:inline-block;
+    margin: 20px;
+    font-size: xx-large;
+}
