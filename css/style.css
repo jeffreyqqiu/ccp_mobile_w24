@@ -94,7 +94,7 @@ p.credit {
 }
 
 @media screen and (prefers-reduced-motion: reduce) {
-    #gif {
+    .gif {
         animation: none;
         transition: none;
     }
