@@ -30,12 +30,12 @@
     display: block;
     text-decoration: none;
     padding: 18px 20px;
-    color: #eeeeee;
+    color: #ffffff;
     text-align: center;
 }
 
 .nav li a.current {
-    background-color: #A05386;
+    background-color: #804261;
     font-weight: bold;
     text-decoration: underline;
 }
@@ -51,7 +51,7 @@ h1 {
     font-size: xx-large;
     font-weight: bold;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: #A05386;
+    color: #804261;
     text-align: center;
 }
 
