@@ -1,11 +1,11 @@
-/* .offpage {
+.offpage {
     position: absolute;
     left: -1000px;
 }
 
 .offpage:focus {
     left: 10px;
-} */
+}
 
 .nav {
     list-style-type: none;
